@@ -26,7 +26,7 @@ THEN I find that the app uses Redux instead of the Context API
 ```
 **Application Photo:**
 
-
+![Shop-Shop](https://user-images.githubusercontent.com/85413293/142784711-3a68e49b-05dd-4aeb-bb23-54e0efa2950d.png)
 
 
 **Link to Deployed App on Heroku:**
