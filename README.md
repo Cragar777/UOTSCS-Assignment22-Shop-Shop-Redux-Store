@@ -31,4 +31,4 @@ THEN I find that the app uses Redux instead of the Context API
 
 **Link to Deployed App on Heroku:**
 
-
+https://stormy-sea-86210.herokuapp.com/
